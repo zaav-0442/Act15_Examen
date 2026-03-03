@@ -1,6 +1,14 @@
 <<<<<<< HEAD
 # myapp
 
+<img width="1333" height="766" alt="image" src="https://github.com/user-attachments/assets/ba23dd6f-1f18-4a06-8108-a8db6ebb3b05" />
+<img width="1144" height="766" alt="image" src="https://github.com/user-attachments/assets/64f19b4d-ce13-4c22-9865-d4d97129ee13" />
+<img width="1142" height="765" alt="image" src="https://github.com/user-attachments/assets/e832c184-b428-4dda-9156-fc76a919d477" />
+
+<img width="423" height="687" alt="image" src="https://github.com/user-attachments/assets/8eacf28c-4a47-4f90-a943-a1261cc01890" />
+<img width="421" height="688" alt="image" src="https://github.com/user-attachments/assets/7a1ac183-4b32-4b47-a091-986f9a501c53" />
+<img width="415" height="689" alt="image" src="https://github.com/user-attachments/assets/81aab11f-fcd8-4f7b-904f-65f7bb55c22b" />
+
 A new Flutter project.
 
 ## Getting Started
